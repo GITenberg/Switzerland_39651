@@ -1,0 +1,29 @@
+_repo: Switzerland_39651
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39651-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fox, Frank
+    aliases:
+    - Fox, Frank, Sir
+    - Renar, Frank
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '25216'
+    url: http://www.gutenberg.org/2009/agents/25216
+description: ''
+gutenberg_issued: '2012-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Description and travel'
+- !lcc 'DQ'
+title: Switzerland
+url: http://www.gutenberg.org/ebooks/39651
